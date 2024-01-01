@@ -34,7 +34,8 @@ Setup under features
 Setup
 
 Download the zip
-Extract it
+open the file
+Extract the zip inside it
 turn on antivirus it might delete important files
 open the .exe file
 then open installpy file
